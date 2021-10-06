@@ -1,0 +1,47 @@
+.container{
+      color: indigo;
+      background-color: lawngreen;
+      
+}
+.img1{
+    height: 200px;
+    width: 250px;
+}
+.img2{
+    height: 200px;
+    width: 250px;
+}
+.img3{
+    height: 200px;
+    width: 250px;
+}
+.img4{
+    height: 200px;
+    width: 250px;
+}
+.img5{
+    height: 200px;
+    width: 250px;
+}
+.img6{
+    height: 200px;
+    width: 250px;
+}
+.img7{
+    height: 200px;
+    width: 250px;
+}
+.img8{
+    height: 200px;
+    width: 250px;
+}
+.para{
+    font-weight: bold;
+    margin-top: 20px;
+ margin-inline: 5px;
+ padding-inline-end: 10px;
+ margin-left: 20px;
+}
+.para>p{
+    margin-left: 20px;
+}
